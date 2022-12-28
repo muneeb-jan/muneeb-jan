@@ -1,6 +1,6 @@
 👋 Hi, I’m @muneeb-jan.
 
-I am interested in projects involving microservices, cloud native applications and distributed systems. Reach me out on my email.
+Reach out on my email or check out my page [muneeb-jan.github.io/devportfolio](https://muneeb-jan.github.io/devportfolio).
 
 <!---
 muneeb-jan/muneeb-jan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
